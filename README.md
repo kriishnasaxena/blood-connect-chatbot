@@ -44,8 +44,8 @@ Backend	FastAPI (Python)
 Storage	Excel via OpenPyXL
 Authors
 
-Shreya Rai
-BITS Pilani, Goa Campus
+Krishna Saxena
+BITS Pilani, Hyderabad Campus
 
 Aryaman Narula
 BITS Pilani, Hyderabad Campus
